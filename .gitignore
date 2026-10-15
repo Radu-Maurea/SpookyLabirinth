@@ -1,0 +1,56 @@
+# ---- Unreal Engine generated folders (rebuilt automatically) ----
+**/Binaries/
+**/Build/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+**/Plugins/**/Binaries/
+**/Plugins/**/Intermediate/
+
+# Per-user developer folders
+**/Content/Developers/
+
+# IDE / project files (regenerated from the .uproject)
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.xcodeproj
+*.xcworkspace
+
+# Compiled / build output
+*.pdb
+*.dll
+*.exe
+*.o
+*.lib
+*.a
+*.so
+*.dylib
+*.ipa
+*.apk
+*.pak
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Archives (extracted copies are kept in _SourceAssets)
+*.zip
+*.7z
+*.rar
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Secrets / local env
+.env
+*.pem
+*.key
