@@ -1,0 +1,56 @@
+STANDOUT 7 GAME ASSET LICENSE
+
+Creator: Standout 7
+Effective Date: 2024
+Website: https://standout7.itch.io/
+Email: [standoutseven+ihelp@gmail.com](mailto:standoutseven+ihelp@gmail.com)
+
+1. License Grant
+
+By legally purchasing or obtaining assets directly from Standout 7 or through an authorized distribution channel, you are granted a non-exclusive, worldwide, perpetual, royalty-free license to use, modify, and incorporate the assets into personal and commercial projects, subject to the terms of this license.
+
+This license applies to all game assets distributed by Standout 7.
+
+2. Permitted Uses
+
+You may use the assets in personal and commercial games, including free and paid games. You may modify, recolor, resize, animate, and combine the assets with other content. You may use the assets in multiple projects without paying additional royalties.
+
+3. Restrictions
+
+You may not resell, redistribute, share, or sublicense the original assets as standalone files. You may not repackage the assets into another asset pack or resource library, make them available for others to download independently, or claim the original assets as your own work.
+
+4. AI Training Restrictions
+
+You may not use or provide these assets for training, teaching, fine-tuning, testing, or developing artificial intelligence or machine learning models or datasets.
+
+This includes providing the assets to AI platforms or services for training purposes. Purchasing or obtaining the assets does not grant permission to use them for AI training. Written permission from Standout 7 is required for any otherwise prohibited AI-related use, subject to applicable law.
+
+5. Attribution
+
+Attribution is appreciated but not required. If you choose to provide credit, you may credit Standout 7 and link to https://standout7.itch.io/.
+
+6. Ownership
+
+Standout 7 retains ownership and copyright of the original assets it owns. This license grants permission to use the assets but does not transfer ownership or copyright to the buyer. Third-party content remains subject to its respective license terms.
+
+7. Warranty
+
+The assets are provided as is, without warranties of any kind, to the extent permitted by applicable law.
+
+8. Termination
+
+If you violate the terms of this license, your permission to use the affected assets may be terminated, subject to applicable law. You must stop any use that is no longer authorized.
+
+9. Contact
+
+For licensing questions or additional permissions, contact:
+
+Standout 7
+Email: [standoutseven+ihelp@gmail.com](mailto:standoutseven+ihelp@gmail.com)
+Website: https://standout7.itch.io/
+
+10. Acceptance
+
+By purchasing or downloading assets from Standout 7, you agree to comply with the applicable terms of this license.
+
+© 2024 Standout 7. All rights reserved.
